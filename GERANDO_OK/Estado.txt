@@ -1,0 +1,4 @@
+Leitor e interpretador de dados, pós processamento. Arquivo lido que é interpretado
+com 21 pontos, e 15000 dados, sendo os dados a serem ignorados 200.
+Gerando graficos, arquivos de saida em geral,
+falta: correlação e serie
